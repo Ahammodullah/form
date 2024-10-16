@@ -1,0 +1,19 @@
+.name{
+    margin-bottom: 1rem;
+}
+
+.email{
+    margin-bottom: 1rem;
+}
+
+.password{
+    margin-bottom: 1rem;
+}
+ #signup{
+    width:4rem;
+    height: 1.5rem;
+    border-radius: 15px;
+    background-color: blue;
+    border: none;
+    color: #fff;
+ }
